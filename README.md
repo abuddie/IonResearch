@@ -7,3 +7,5 @@ This file is designed to create fake exponential data to test processes in Steps
 #### Step1_Preliminary_Data_Processing.ipnb 
 
 #### Step2_Analysis_8ions_Version1.ipynb
+
+#### Step2_Analysis_8ions_Version2.ipynb
